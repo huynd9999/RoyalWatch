@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalWatchShop.Common", "RoyalWatchShop.Common\RoyalWatchShop.Common.csproj", "{A37966F4-555B-4FCE-B9C6-82630DB499ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalWatchShop.Model", "RoyalWatchShop.Model\RoyalWatchShop.Model.csproj", "{E8CD1613-BC86-479C-8920-739C7074310F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalWatchShop.Data", "RoyalWatchShop.Data\RoyalWatchShop.Data.csproj", "{0CA04071-FE30-43A9-B4D0-B5CBB6D4C81A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalWatchShop.Service", "RoyalWatchShop.Service\RoyalWatchShop.Service.csproj", "{6E11D3F3-DFAC-4092-89EF-7A67E6D1C2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalWatchShop.UnitTest", "RoyalWatchShop.UnitTest\RoyalWatchShop.UnitTest.csproj", "{AF62C089-BAE7-45FC-A9B0-1A42CE422EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalWatchShop.Web", "RoyalWatchShop.Web\RoyalWatchShop.Web.csproj", "{1743E655-4BF3-4F70-8B60-8B260DA3A900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A37966F4-555B-4FCE-B9C6-82630DB499ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37966F4-555B-4FCE-B9C6-82630DB499ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37966F4-555B-4FCE-B9C6-82630DB499ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37966F4-555B-4FCE-B9C6-82630DB499ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8CD1613-BC86-479C-8920-739C7074310F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CD1613-BC86-479C-8920-739C7074310F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CD1613-BC86-479C-8920-739C7074310F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CD1613-BC86-479C-8920-739C7074310F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA04071-FE30-43A9-B4D0-B5CBB6D4C81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA04071-FE30-43A9-B4D0-B5CBB6D4C81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA04071-FE30-43A9-B4D0-B5CBB6D4C81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA04071-FE30-43A9-B4D0-B5CBB6D4C81A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E11D3F3-DFAC-4092-89EF-7A67E6D1C2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E11D3F3-DFAC-4092-89EF-7A67E6D1C2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E11D3F3-DFAC-4092-89EF-7A67E6D1C2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E11D3F3-DFAC-4092-89EF-7A67E6D1C2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF62C089-BAE7-45FC-A9B0-1A42CE422EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF62C089-BAE7-45FC-A9B0-1A42CE422EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF62C089-BAE7-45FC-A9B0-1A42CE422EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF62C089-BAE7-45FC-A9B0-1A42CE422EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1743E655-4BF3-4F70-8B60-8B260DA3A900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1743E655-4BF3-4F70-8B60-8B260DA3A900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1743E655-4BF3-4F70-8B60-8B260DA3A900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1743E655-4BF3-4F70-8B60-8B260DA3A900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB95716-D301-49B7-B204-4CCC61EAEA46}
+	EndGlobalSection
+EndGlobal
